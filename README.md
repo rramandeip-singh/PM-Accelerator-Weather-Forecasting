@@ -278,6 +278,17 @@ Canada
 
 ---
 
+## Dataset
+
+The project uses the Global Weather Repository dataset.
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Download the dataset from:
+[https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code)
+
+---
+
 # License
 
 This project was developed for educational and portfolio purposes as part of the PM Accelerator Technical Assessment.
